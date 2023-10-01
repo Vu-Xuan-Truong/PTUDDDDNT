@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193039321312",
+    "project_id": "truong-bf5a1",
+    "storage_bucket": "truong-bf5a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193039321312:android:a45a68ec8f2b090ac32885",
+        "android_client_info": {
+          "package_name": "com.ktgiuaky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Fs8eGDzew04AwP_LnoH-0JtaDhC9OFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
